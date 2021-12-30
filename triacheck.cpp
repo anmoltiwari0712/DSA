@@ -1,3 +1,4 @@
+//PROGRAM TO CHECK WHETHER A TRIANGLE IS SCALENE, ISOCELES,EQUILATERAL
 #include<iostream>
 using namespace std;
  
